@@ -1,0 +1,13 @@
+{
+  "name": "kryp-remote-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KRYP remote realtime WebSocket/event relay server",
+  "main": "kryp-remote-server.js",
+  "scripts": {
+    "start": "node kryp-remote-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
